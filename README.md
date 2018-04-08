@@ -1,4 +1,4 @@
-# Turkiye-Gezi-Rehberi-Csharp
+# Türkiye Gezi Rehberi
 
 <ul>
 <li>Projede c# kullanılmıştır.</li>
